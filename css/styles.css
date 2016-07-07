@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: white;
+  border-color: red;
+  border-style: solid;
+  border-width: medium;
+  padding-bottom: 50px;
+}
+
+.header-logo {
+  max-width: 200px;
+}
